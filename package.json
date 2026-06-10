@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
-    "start": "ts-node index.ts",
+    "start": "npx ts-node index.ts",
     "build": "echo 'Build skipped'"
   },
   "dependencies": {
